@@ -1,5 +1,3 @@
-# ROCK_PAPER_SCISSOR
-Rock 🪨, Paper 📄, Scissors ✂️ Game Play the classic game against the computer in Python. User-friendly, random choices, winner after three rounds.  How to Play: Run the program. Choose: rock, paper, or scissors. See round results. Discover the ultimate winner!
 # Rock-Paper-Scissors Game
 
 This is a simple command-line implementation of the classic Rock-Paper-Scissors game written in Python.
@@ -10,7 +8,7 @@ This is a simple command-line implementation of the classic Rock-Paper-Scissors 
 2. Make sure you have Python installed.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the game files.
-5. Run the `rps_game.py` file using Python.
+5. Run the `R_P_S.ipynb` file using Python.
 
 ## Game Rules
 
@@ -20,13 +18,13 @@ This is a simple command-line implementation of the classic Rock-Paper-Scissors 
 
 ## Files
 
-- `r_ps_game.py`: Contains the Python code for the game.
+- `R_P_S.ipynb`: Contains the Python code for the game.
 - `README.md`: Provides information about the game and how to run it.
 
 ## Usage
 
 bash
-python rps_game.py
+python R_P_S.ipynb
 
 
 ## Example Output
